@@ -1,0 +1,14 @@
+
+OAI-PMH to Learning Registry Publish Utility
+--------------------------------------------
+
+This Python script, based on code developed by ADL in the U.S., harvests data from an OAI-PMH endpoint (Jorum, in this case), converts the data to Learning Registry resource data (JSON envelopes) and publishes the data on a Learning Registry node (the JLeRN Alpha node, in this case).
+
+
+Additional Python modules required:
+oaipmh 2.4.4
+elementtree 1.2.6
+
+
+
+
