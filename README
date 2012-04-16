@@ -6,8 +6,8 @@ This Python script, based on code developed by ADL in the U.S., harvests data fr
 
 
 Additional Python modules required:
-oaipmh 2.4.4
-elementtree 1.2.6
+oaipmh (pyoai)
+elementtree
 
 
 
